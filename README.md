@@ -56,4 +56,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 
 ## Author
-* Ruffin Hounsounnon    - [cofeedcognac](https://github.com/ruffinh22)
+* Ruffin Hounsounnon    - [ruffinh](https://github.com/ruffinh22)
